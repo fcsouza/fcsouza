@@ -1,13 +1,13 @@
 ### Hi there 👋
 <p>
   <samp>
-     E aí? eu sou o <a href="https://www.linkedin.com/in/fabricio-cavalcante/"> Fabricio </a> :wave:
+     E aí? eu sou o <a href="https://www.linkedin.com/in/fabricio-cavalcante/"> Fabricio </a> 👋
     <br />
     <br />Atualmente eu desenvolvo soluções web
     <br />utilizando NodeJs, JavaScript e ReactJs
     <br />
     <br />
-    :rocket: Linguagens e Frameworks
+    🚀 Linguagens e Frameworks
     <br />
     <br /><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
     <code><img height="20" src="https://user-images.githubusercontent.com/51726945/87152548-4d851a00-c28c-11ea-9f39-5a799361f051.png"></code>
@@ -19,7 +19,7 @@
 
 <p>
   <samp>
-     :coffee: Quer falar comigo?
+     ☕ Quer falar comigo?
     <br />
     <br />
     <a href="https://www.linkedin.com/in/fabricio-cavalcante/">
@@ -31,24 +31,19 @@
 <br>
 <br>
 
-<p>
-  <samp>
-    :fire: Meus melhores repositórios
-    <br />
-    <br />
-    <a href="https://github.com/fcsouza/ecoleta">
-      <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=fcsouza&repo=ecoleta&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-    </a>
-    <a href="https://github.com/fcsouza/psi-pra-todos">
-      <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=fcsouza&repo=psi-pra-todos&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-    </a>
-    <br />
-    <br />
-    <br />
-    <br />
-  </samp>
-</p>
-<br>
+[![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/readme/master/assets/lines/colored.png)](#installation)
 
-![Fabricio](https://github-readme-stats.vercel.app/api?username=fcsouza&show_icons=true)
+🔥 Meus melhores repositórios
 
+<a href="https://github.com/fcsouza/ecoleta">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=fcsouza&repo=ecoleta&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+<a href="https://github.com/fcsouza/psi-pra-todos">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=fcsouza&repo=psi-pra-todos&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+
+<br/>
+<br/>
+<a href="https://github.com/fcsouza">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fcsouza&show_icons=true&theme=dark&count_private=true" />
+</a>
