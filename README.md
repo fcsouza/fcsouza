@@ -31,7 +31,7 @@
 <br>
 <br>
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/readme/master/assets/lines/colored.png)](#installation)
+[![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
 
 🔥 Meus melhores repositórios
 
