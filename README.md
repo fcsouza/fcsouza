@@ -44,6 +44,8 @@
 
 <br/>
 <br/>
-<a href="https://github.com/fcsouza">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fcsouza&show_icons=true&theme=dark&count_private=true" />
-</a>
+
+<p align="center">
+  <a href="https://github.com/fcsouza" rel="noopener">
+ <img src="https://github-readme-stats.vercel.app/api?username=fcsouza&show_icons=true&theme=dark&count_private=true" ></a>
+</p>
