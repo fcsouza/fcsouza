@@ -1,3 +1,6 @@
+<img width="auto" src=".github\logo.png">
+<br>
+<br>
 <h1 align="center">Hi there 👋 I am Fabricio Cavalcante</h1>
 <h3 align="center">A Software Developer from Brazil who are always learning.📖</h3>
 
