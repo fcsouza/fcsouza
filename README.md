@@ -33,6 +33,11 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
 
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 🔥 Meus melhores repositórios
 
 <a href="https://github.com/fcsouza/ecoleta">
