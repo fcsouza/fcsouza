@@ -8,7 +8,7 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
 
-- 🔭 I’m currently working on **Project Hermes and Totvs**
+- 🔭 I’m currently working on **Project Hermes and Zoop**
 
 - 🌱 I’m currently learning **AWS Services, Docker, Nodejs, React, Typescript, GraphQL and Clean Code**
 
