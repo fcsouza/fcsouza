@@ -12,7 +12,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Pull in dev.to posts
-        uses: gautamkrishnar/blog-post-workflow@master
+        uses: gautamkrishnar/blog-post-workflow@1.6.7
         with:
           comment_tag_name: MEDIUM
           feed_list: "https://medium.com/feed/@fabricio.unix"
