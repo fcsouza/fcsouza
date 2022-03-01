@@ -45,10 +45,8 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
 
-# Blog posts
+# Medium posts of [@fabricio.unix](https://medium.com/@fabricio.unix)
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 <!-- MEDIUM:START -->
 - [Empresas deveriam focar mais nas pessoas e menos na capacidade de resolver desafios técnicos…](https://medium.com/@fabricio.unix/empresas-deveriam-focar-mais-nas-pessoas-e-menos-na-capacidade-de-resolver-desafios-t%C3%A9cnicos-c7485d3a3e1c?source=rss-2780827db5f1------2)
 - [Treinando escrita de artigos Tech e não Tech](https://medium.com/@fabricio.unix/treinando-escrita-de-artigos-tech-e-n%C3%A3o-tech-4404efae1412?source=rss-2780827db5f1------2)
