@@ -49,6 +49,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
 
