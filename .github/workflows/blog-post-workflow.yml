@@ -11,8 +11,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Pull in dev.to posts
+      - name: Pull in medium posts
         uses: gautamkrishnar/blog-post-workflow@1.6.7
         with:
           comment_tag_name: MEDIUM
+          max_post_count: "4"
           feed_list: "https://medium.com/feed/@fabricio.unix"
