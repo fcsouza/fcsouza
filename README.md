@@ -50,6 +50,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 <!-- MEDIUM:START -->
+- [Empresas deveriam focar mais nas pessoas e menos na capacidade de resolver desafios técnicos…](https://medium.com/@fabricio.unix/empresas-deveriam-focar-mais-nas-pessoas-e-menos-na-capacidade-de-resolver-desafios-t%C3%A9cnicos-c7485d3a3e1c?source=rss-2780827db5f1------2)
 <!-- MEDIUM:END -->
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
