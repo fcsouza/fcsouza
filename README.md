@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Project Hermes and Zoop**
 
-- 🌱 I’m currently learning **AWS Services, Docker, Nodejs, React, Typescript, GraphQL and Clean Code**
+- 🌱 I’m currently learning **AWS Services, Docker, Nodejs, Nestjs, Golang, Typescript, GraphQL, Clean Code, DDD**
 
 - 👯 I’m looking to collaborate on **Open Source Projects and Participate in Hackathons**
 
