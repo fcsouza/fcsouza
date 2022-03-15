@@ -16,8 +16,6 @@
 
 - 👨‍💻 All of my projects are available at [My personal site](https://www.fabricio-dev.com.br/) and my [GitHub](https://github.com/fcsouza)
 
-- 📕 My complete history profile with Github [Sourcerer.IO](https://sourcerer.io/fcsouza)
-
 - 📝 Trying to write articles on my [Medium](https://medium.com/@fabricio.unix)
 
 - 💬 Ask me about **Software development and Coding projects**
