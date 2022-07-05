@@ -1,4 +1,4 @@
-<img width="auto" src=".github\logo.png">
+<img width="auto" src=".github\header_.png">
 <br>
 <br>
 <h1 align="center">Hi there 👋 I am Fabricio Cavalcante</h1>
