@@ -10,15 +10,13 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
 
-- 🔭 I’m currently working on **Project Hermes and Zoop**
+- 🔭 I’m currently working on **Project Hermes and Ifood**
 
 - 🌱 I’m currently learning **AWS Services, Docker, Nodejs, Nestjs, Golang, Typescript, GraphQL, Clean Code, DDD**
 
 - 👯 I’m looking to collaborate on **Open Source Projects and Participate in Hackathons**
 
 - 👨‍💻 All of my projects are available at [My personal site](https://www.fabricio-dev.com.br/) and my [GitHub](https://github.com/fcsouza)
-
-- 📝 Trying to write articles on my [Medium](https://medium.com/@fabricio.unix)
 
 - 💬 Ask me about **Software development and Coding projects**
 
