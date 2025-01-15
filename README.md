@@ -3,7 +3,7 @@
 <br>
 <h1 align="center">Hi there 👋 I am Fabricio Cavalcante</h1>
 
-<h3 style="text-align: center;">A Software Developer from Brazil who is always learning 📖</h3>
+<h3 style="text-align: center;">A Software Engineer from Brazil who is always learning 📖</h3>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fcsouza" alt="fcsouza" /> </p>
