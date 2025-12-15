@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src=".github/header_.png" alt="Header">
+  <img width="100%" src=".github/header_.png" alt="Fabricio Cavalcante - Software Engineer Banner">
 </div>
 
 <h1 align="center">
@@ -29,7 +29,7 @@ const fabricio = {
     learning: ["AWS Services", "Docker", "NestJS", "Golang", "TypeScript", "GraphQL", "DDD"],
     interests: ["Open Source", "Hackathons", "Clean Architecture", "System Design"],
     funFact: "When not coding, I'm conquering worlds in RPG and Strategy Games 🧙‍♂️",
-    website: "pulsolab.com.br"
+    website: "https://pulsolab.com.br"
 };
 ```
 
