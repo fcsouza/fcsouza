@@ -169,8 +169,8 @@ const fabricio = {
 
 ## 🎓 Education & Certifications
 
-- 🎯 **MBA in Artificial Intelligence** - Full Cycle (2025-2026)
-- 🧠 **Postgraduate in Artificial Intelligence** - FIAP (2024-2025)
+- 🎯 **MBA in Artificial Intelligence** - Full Cycle (2025-2026) *In Progress*
+- 🧠 **Postgraduate in Artificial Intelligence** - FIAP (2024-2025) *Completed*
 - 🏗️ **Software Architecture Bootcamp** - IGTI (2021)
 - 🎓 **B.S. in Information Systems** - Estácio (2018-2021)
 - ☕ **Java Training Certification**
