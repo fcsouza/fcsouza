@@ -2,6 +2,8 @@
   <img width="100%" src=".github/header_.png" alt="Fabricio Cavalcante - Software Engineer Banner">
 </div>
 
+[![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
+
 <h1 align="center">
   Hi there! 👋 I'm Fabricio Cavalcante
 </h1>
@@ -31,8 +33,7 @@ const fabricio = {
     currentRoles: [
         "Software Engineer @ iFood Pago",
         "CTO @ Darwin",
-        "CEO @ VestiAI",
-        "CEO @ PulsoLab"
+        "CEO @ VestiAI & PulsoLab"
     ],
     experience: "4+ years in high-scale systems",
     specialization: "AI & Software Architecture",
@@ -57,7 +58,7 @@ const fabricio = {
 - 🛍️ **CEO @ VestiAI**: Leveraging Generative AI for fashion e-commerce (0 to validated MVP)
 - 🚀 **CEO @ PulsoLab**: Helping companies implement AI strategically with tangible results
 - 🎓 Pursuing **MBA in AI** at Full Cycle (2025-2026) + **AI Specialization** at FIAP (2024-2025)
-- 🌱 Deep diving into **LangGraph, LangChain, RAG, AI SDK, Mastra SDK**
+- 🌱 Deep diving into **LangGraph, LangChain, RAG, AI SDK, Mastra SDK and AI Technologies**
 - 💬 Ask me about **AI Implementation, Software Architecture, High-Scale Systems, and Startup MVPs**
 - 📫 Reach me at **fabricio.souza@pulsolab.com.br**
 - 🌐 Check out my work: [PulsoLab](https://pulsolab.com.br) | [VestiAI](https://vestiai.com.br) | [Darwin](https://darwin.ia.br)
@@ -69,12 +70,6 @@ const fabricio = {
 <p align="center">
   <a href="https://linkedin.com/in/fabricio-souza-ia" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://dev.to/fcsouza" target="_blank">
-    <img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
-  </a>
-  <a href="https://medium.com/@fabricio.unix" target="_blank">
-    <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
   <a href="mailto:fabricio.souza@pulsolab.com.br">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -142,50 +137,14 @@ const fabricio = {
 
 <br>
 
-## 💼 Professional Experience
-
-- **🍔 iFood Pago** - Software Engineer (June 2021 - Present)
-  - Building scalable and resilient payment solutions for Latin America's largest foodtech
-  
-- **🤖 Darwin** - CTO (July 2025 - Present)
-  - Leading AI platform development for interview preparation with behavioral AI models
-
-- **👗 VestiAI** - CEO (December 2025 - Present)
-  - Built 0 to validated MVP for Generative AI in fashion e-commerce
-
-- **🚀 PulsoLab** - CEO (January 2025 - Present)
-  - Strategic AI implementation for businesses, reducing operational costs through automation
-
-- **💳 Zoop** - Software Developer (June 2021 - August 2024)
-  - Developed payment systems using Golang, Python, and PHP on AWS infrastructure
-
-- **🏦 BTG Pactual** - Software Developer (February 2021 - June 2021)
-  - Built applications and APIs using Node.js on AWS cloud
-
-- **💼 TOTVS** - Software Developer (September 2020 - February 2021)
-  - Developed RESTful APIs using Node.js and AWS services
-
-<br>
-
-## 🎓 Education & Certifications
-
-- 🎯 **MBA in Artificial Intelligence** - Full Cycle (2025-2026) *In Progress*
-- 🧠 **Postgraduate in Artificial Intelligence** - FIAP (2024-2025) *Completed*
-- 🏗️ **Software Architecture Bootcamp** - IGTI (2021)
-- 🎓 **B.S. in Information Systems** - Estácio (2018-2021)
-- ☕ **Java Training Certification**
-- 💻 **Hiring Coders** - Gama Academy (2020)
-
-<br>
-
 ## 🔥 Featured Projects
 
 <div align="center">
   <a href="https://github.com/fcsouza/fome-zero">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fcsouza&repo=fome-zero&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Fome Zero" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=fcsouza&repo=fome-zero&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Fome Zero" />
   </a>
   <a href="https://github.com/fcsouza/psi-pra-todos">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fcsouza&repo=psi-pra-todos&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Psi Pra Todos" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=fcsouza&repo=psi-pra-todos&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Psi Pra Todos" />
   </a>
 </div>
 
@@ -194,14 +153,14 @@ const fabricio = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fcsouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Fabricio's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcsouza&layout=compact&langs_count=8&theme=dark" alt="Fabricio's Top Languages" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=fcsouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Fabricio's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fcsouza&layout=compact&langs_count=8&theme=dark" alt="Fabricio's Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fcsouza&theme=dark" alt="Fabricio's GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=fcsouza&theme=radical" alt="Fabricio's GitHub Streak" />
 </div>
 
 <br>
@@ -217,7 +176,7 @@ const fabricio = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fcsouza&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=fcsouza&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 <br>
@@ -225,8 +184,8 @@ const fabricio = {
 ---
 
 <div align="center">
-  <p>⭐️ From <a href="https://github.com/fcsouza">fcsouza</a> | Made with ❤️ and ☕</p>
+  <p>⭐️ From <a href="https://github.com/fcsouza">fcsouza</a> | Made with ❤️☕🤖</p>
   <p>
-    <i>Open to new opportunities and collaborations!</i>
+    <i>Open to new connections and collaborations!</i>
   </p>
 </div>
