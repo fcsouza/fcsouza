@@ -31,7 +31,7 @@
 const fabricio = {
     location: "Rio de Janeiro, Brazil 🇧🇷",
     currentRoles: [
-        "Software Engineer @ iFood Pago",
+        "Software Engineer @ iFood",
         "CTO @ Darwin",
         "CEO @ VestiAI & PulsoLab"
     ],
