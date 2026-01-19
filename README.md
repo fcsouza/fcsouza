@@ -9,7 +9,7 @@
 </h1>
 
 <h3 align="center">
-  🚀 Software Engineer @ iFood Pago | CTO @ Darwin | AI Specialist | 🇧🇷 Brazil
+  🚀 Software Engineer @ iFood | CTO @ Darwin | AI Specialist | 🇧🇷 Brazil
 </h3>
 
 <p align="center">
