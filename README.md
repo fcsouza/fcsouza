@@ -53,7 +53,7 @@ const fabricio = {
 
 ## 🎯 What I'm Up To
 
-- 💼 **Software Engineer @ iFood Pago**: Building the future of payments with high-scale systems
+- 💼 **Software Engineer @ iFood**: Building the future of payments with high-scale systems
 - 🤖 **CTO @ Darwin**: Creating an AI platform to help tech professionals master interviews
 - 🛍️ **CEO @ VestiAI**: Leveraging Generative AI for fashion e-commerce (0 to validated MVP)
 - 🚀 **CEO @ PulsoLab**: Helping companies implement AI strategically with tangible results
