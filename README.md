@@ -9,7 +9,7 @@
 </h1>
 
 <h3 align="center">
-  🚀 Software Engineer @ iFood | CTO @ Darwin | AI Specialist | 🇧🇷 Brazil
+  🚀 Software Engineer @ iFood | Founder @ VestiAi & Git Quest | AI Specialist | 🇧🇷 Brazil
 </h3>
 
 <p align="center">
@@ -32,8 +32,7 @@ const fabricio = {
     location: "Rio de Janeiro, Brazil 🇧🇷",
     currentRoles: [
         "Software Engineer @ iFood",
-        "CTO @ Darwin",
-        "CEO @ VestiAI & PulsoLab"
+        "Founder @ VestiAI & Git Quest"
     ],
     experience: "4+ years in high-scale systems",
     specialization: "AI & Software Architecture",
@@ -54,9 +53,7 @@ const fabricio = {
 ## 🎯 What I'm Up To
 
 - 💼 **Software Engineer @ iFood**: Building the future of payments with high-scale systems
-- 🤖 **CTO @ Darwin**: Creating an AI platform to help tech professionals master interviews
-- 🛍️ **CEO @ VestiAI**: Leveraging Generative AI for fashion e-commerce (0 to validated MVP)
-- 🚀 **CEO @ PulsoLab**: Helping companies implement AI strategically with tangible results
+- 🛍️ Founder @ VestiAI · ⚔️ Founder @ Git Quest: Turning AI into products — virtual models for fashion brands and RPG adventures from your GitHub history
 - 🎓 Pursuing **MBA in AI** at Full Cycle (2025-2026) + **AI Specialization** at FIAP (2024-2025)
 - 🌱 Deep diving into **LangGraph, LangChain, RAG, AI SDK, Mastra SDK and AI Technologies**
 - 💬 Ask me about **AI Implementation, Software Architecture, High-Scale Systems, and Startup MVPs**
