@@ -2,14 +2,14 @@
   <img width="100%" src=".github/header_.png" alt="Fabricio Cavalcante - Software Engineer Banner">
 </div>
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
+![divider](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)
 
 <h1 align="center">
   Hi there! 👋 I'm Fabricio Cavalcante
 </h1>
 
 <h3 align="center">
-  🚀 Software Engineer @ iFood | Founder @ VestiAi & Git Quest | AI Specialist | 🇧🇷 Brazil
+  🚀 Software Engineer @ iFood | Founder @ VestiAI & Git Quest | AI Specialist | 🇧🇷 Brazil
 </h3>
 
 <p align="center">
@@ -53,12 +53,11 @@ const fabricio = {
 ## 🎯 What I'm Up To
 
 - 💼 **Software Engineer @ iFood**: Building the future of payments with high-scale systems
-- 🛍️ Founder @ VestiAI · ⚔️ Founder @ Git Quest: Turning AI into products — virtual models for fashion brands and RPG adventures from your GitHub history
-- 🎓 Pursuing **MBA in AI** at Full Cycle (2025-2026) + **AI Specialization** at FIAP (2024-2025)
+- 🛍️ **Founder @ VestiAI & Git Quest**: Turning AI into products — virtual models for fashion brands and RPG adventures from your GitHub history
+- 🎓 Completed **MBA in AI** at Full Cycle (2025-2026) + **AI Specialization** at FIAP (2024-2025)
 - 🌱 Deep diving into **LangGraph, LangChain, RAG, AI SDK, Mastra SDK and AI Technologies**
 - 💬 Ask me about **AI Implementation, Software Architecture, High-Scale Systems, and Startup MVPs**
-- 📫 Reach me at **fabricio.souza@pulsolab.com.br**
-- 🌐 Check out my work: [PulsoLab](https://pulsolab.com.br) | [VestiAI](https://vestiai.com.br) | [Darwin](https://darwin.ia.br)
+- 🌐 Check out my work: [PulsoLab](https://pulsolab.com.br) | [VestiAI](https://vestiai.com.br) | [Git Quest](https://gitquest.dev) | [Darwin](https://darwin.ia.br)
 
 <br>
 
@@ -88,46 +87,44 @@ const fabricio = {
 
 ### 💻 Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Golang" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Golang" />
 </p>
 
-### 🚀 Frameworks & Libraries
+### 🚀 Runtime & Frameworks
 <p align="left">
+  <img src="https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white" alt="Bun" />
+  <img src="https://img.shields.io/badge/-Elysia-8B5CF6?style=flat-square" alt="Elysia" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
 </p>
 
-### 🗄️ Databases
+### 🗄️ Data & Auth
 <p align="left">
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-Neon-00E599?style=flat-square&logo=neon&logoColor=black" alt="Neon" />
+  <img src="https://img.shields.io/badge/-Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black" alt="Drizzle" />
   <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/-Better_Auth-000000?style=flat-square&logo=betterauth&logoColor=white" alt="Better Auth" />
 </p>
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud & Infra
 <p align="left">
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square" alt="AWS" />
   <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/-Dokploy-1E1E1E?style=flat-square" alt="Dokploy" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-### 🧪 Testing & Tools
+### 📡 Observability & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest" />
-  <img src="https://img.shields.io/badge/-Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white" alt="Mocha" />
+  <img src="https://img.shields.io/badge/-PostHog-1D4AFF?style=flat-square&logo=posthog&logoColor=white" alt="PostHog" />
+  <img src="https://img.shields.io/badge/-Better_Stack-000000?style=flat-square&logo=betterstack&logoColor=white" alt="Better Stack" />
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
 </p>
@@ -138,10 +135,10 @@ const fabricio = {
 
 <div align="center">
   <a href="https://github.com/fcsouza/fome-zero">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=fcsouza&repo=fome-zero&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Fome Zero" />
+    <img src="./profile/pin-fome-zero.svg" alt="Fome Zero" />
   </a>
   <a href="https://github.com/fcsouza/psi-pra-todos">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=fcsouza&repo=psi-pra-todos&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Psi Pra Todos" />
+    <img src="./profile/pin-psi-pra-todos.svg" alt="Psi Pra Todos" />
   </a>
 </div>
 
@@ -150,30 +147,26 @@ const fabricio = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=fcsouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Fabricio's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fcsouza&layout=compact&langs_count=8&theme=dark" alt="Fabricio's Top Languages" />
+  <img height="180em" src="./profile/stats.svg" alt="Fabricio's GitHub Stats" />
+  <img height="180em" src="./profile/top-langs.svg" alt="Fabricio's Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=fcsouza&theme=radical" alt="Fabricio's GitHub Streak" />
+  <img src="./profile/streak.svg" alt="Fabricio's GitHub Streak" />
 </div>
 
 <br>
 
-## 📈 Contribution Graph
+## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fcsouza&theme=github-dark&hide_border=true&area=true" alt="Fabricio's Contribution Graph" />
-</div>
-
-<br>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=fcsouza&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/snake.svg" />
+    <img alt="Fabricio's contribution snake" src="./profile/snake.svg" />
+  </picture>
 </div>
 
 <br>
