@@ -76,58 +76,61 @@ const fabricio = {
 
 ## 🛠️ Tech Stack
 
-### 🤖 AI & Agents
-<p align="left">
-  <img src="https://img.shields.io/badge/-LangChain-121212?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/-LangGraph-FF6B6B?style=flat-square&logo=graphql&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/-RAG-4285F4?style=flat-square&logo=google&logoColor=white" alt="RAG" />
-  <img src="https://img.shields.io/badge/-AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white" alt="AI SDK" />
-  <img src="https://img.shields.io/badge/-Mastra_SDK-6B46C1?style=flat-square&logo=astro&logoColor=white" alt="Mastra SDK" />
-</p>
-
-### 💻 Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Golang" />
-</p>
-
-### 🚀 Runtime & Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white" alt="Bun" />
-  <img src="https://img.shields.io/badge/-Elysia-8B5CF6?style=flat-square" alt="Elysia" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-</p>
-
-### 🗄️ Data & Auth
-<p align="left">
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/-Neon-00E599?style=flat-square&logo=neon&logoColor=black" alt="Neon" />
-  <img src="https://img.shields.io/badge/-Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black" alt="Drizzle" />
-  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/-Better_Auth-000000?style=flat-square&logo=betterauth&logoColor=white" alt="Better Auth" />
-</p>
-
-### ☁️ Cloud & Infra
-<p align="left">
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square" alt="AWS" />
-  <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/-Dokploy-1E1E1E?style=flat-square" alt="Dokploy" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
-### 📡 Observability & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/-PostHog-1D4AFF?style=flat-square&logo=posthog&logoColor=white" alt="PostHog" />
-  <img src="https://img.shields.io/badge/-Better_Stack-000000?style=flat-square&logo=betterstack&logoColor=white" alt="Better Stack" />
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 AI & Agents</h3>
+      <img src="https://img.shields.io/badge/-LangChain-121212?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
+      <img src="https://img.shields.io/badge/-LangGraph-FF6B6B?style=flat-square&logo=graphql&logoColor=white" alt="LangGraph" />
+      <img src="https://img.shields.io/badge/-RAG-4285F4?style=flat-square&logo=google&logoColor=white" alt="RAG" />
+      <img src="https://img.shields.io/badge/-AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white" alt="AI SDK" />
+      <img src="https://img.shields.io/badge/-Mastra_SDK-6B46C1?style=flat-square&logo=astro&logoColor=white" alt="Mastra SDK" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>💻 Languages</h3>
+      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Golang" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 Runtime & Frameworks</h3>
+      <img src="https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white" alt="Bun" />
+      <img src="https://img.shields.io/badge/-Elysia-8B5CF6?style=flat-square" alt="Elysia" />
+      <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗄️ Data & Auth</h3>
+      <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/-Neon-00E599?style=flat-square&logo=neon&logoColor=black" alt="Neon" />
+      <img src="https://img.shields.io/badge/-Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black" alt="Drizzle" />
+      <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+      <img src="https://img.shields.io/badge/-Better_Auth-000000?style=flat-square&logo=betterauth&logoColor=white" alt="Better Auth" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☁️ Cloud & Infra</h3>
+      <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square" alt="AWS" />
+      <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/-Dokploy-1E1E1E?style=flat-square" alt="Dokploy" />
+      <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>📡 Observability & Tools</h3>
+      <img src="https://img.shields.io/badge/-PostHog-1D4AFF?style=flat-square&logo=posthog&logoColor=white" alt="PostHog" />
+      <img src="https://img.shields.io/badge/-Better_Stack-000000?style=flat-square&logo=betterstack&logoColor=white" alt="Better Stack" />
+      <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+      <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
