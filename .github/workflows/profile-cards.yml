@@ -103,6 +103,9 @@ jobs:
           theme: darkhub
           token: ${{ secrets.README_STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
+      - name: Wrap trophies into two rows
+        run: python3 .github/scripts/wrap-trophies.py profile/trophy.svg
+
       - name: Generate contribution snake
         uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3.5.0
         with:
