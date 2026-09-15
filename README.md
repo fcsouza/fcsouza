@@ -131,6 +131,25 @@ const fabricio = {
 
 <br>
 
+## 🚀 My Products
+
+<div align="center">
+  <a href="https://gitquest.dev">
+    <img width="49%" src="https://gitquest.dev/og-image.png" alt="Git Quest — a free RPG where your GitHub history is your character" />
+  </a>
+  <a href="https://vestiai.com.br">
+    <img width="49%" src="https://www.vestiai.com.br/og-image.jpg" alt="VestiAI — AI virtual models for clothing photos" />
+  </a>
+</div>
+
+<p align="center">
+  <b><a href="https://gitquest.dev">Git Quest</a></b>: a free RPG where every commit fuels your adventure
+  &nbsp;·&nbsp;
+  <b><a href="https://vestiai.com.br">VestiAI</a></b>: AI virtual models for fashion brands
+</p>
+
+<br>
+
 ## 🔥 Featured Projects
 
 <div align="center">
