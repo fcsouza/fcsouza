@@ -40,20 +40,52 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.README_STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
-      - name: Generate fome-zero pin
+      - name: Generate vttforge pin
         uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2.0.2
         with:
           card: pin
-          options: username=${{ github.repository_owner }}&repo=fome-zero&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515
-          path: profile/pin-fome-zero.svg
+          options: username=vttforge&repo=vttforge&description_lines_count=3&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515
+          path: profile/pin-vttforge.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate agent-skills pin
+        uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2.0.2
+        with:
+          card: pin
+          options: username=fcsouza&repo=agent-skills&description_lines_count=3&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515
+          path: profile/pin-agent-skills.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate psi-pra-todos pin
         uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2.0.2
         with:
           card: pin
-          options: username=${{ github.repository_owner }}&repo=psi-pra-todos&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515
+          options: username=fcsouza&repo=psi-pra-todos&description_lines_count=3&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515
           path: profile/pin-psi-pra-todos.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate claude-impact-rj26 pin
+        uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2.0.2
+        with:
+          card: pin
+          options: username=fcsouza&repo=claude-impact-rj26&description_lines_count=3&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515
+          path: profile/pin-claude-impact-rj26.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pdf-character-sheet pin
+        uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2.0.2
+        with:
+          card: pin
+          options: username=fcsouza&repo=pdf-character-sheet&description_lines_count=3&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515
+          path: profile/pin-pdf-character-sheet.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate fome-zero pin
+        uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2.0.2
+        with:
+          card: pin
+          options: username=fcsouza&repo=fome-zero&description_lines_count=3&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515
+          path: profile/pin-fome-zero.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate streak card
@@ -62,6 +94,17 @@ jobs:
           options: user=${{ github.repository_owner }}&theme=radical&disable_animations=true
           path: profile/streak.svg
           token: ${{ secrets.README_STATS_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Generate trophies
+        uses: ryo-ma/github-profile-trophy@e3c89df995e92e67cdd4b2acaab9d974583dc1f7 # master (2026-07-25)
+        with:
+          username: ${{ github.repository_owner }}
+          output_path: profile/trophy.svg
+          theme: darkhub
+          token: ${{ secrets.README_STATS_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Wrap trophies into two rows
+        run: python3 .github/scripts/wrap-trophies.py profile/trophy.svg
 
       - name: Generate contribution snake
         uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3.5.0
