@@ -134,11 +134,23 @@ const fabricio = {
 ## 🔥 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/fcsouza/fome-zero">
-    <img src="./profile/pin-fome-zero.svg" alt="Fome Zero" />
+  <a href="https://github.com/vttforge/vttforge">
+    <img width="49%" src="./profile/pin-vttforge.svg" alt="vttforge" />
+  </a>
+  <a href="https://github.com/fcsouza/agent-skills">
+    <img width="49%" src="./profile/pin-agent-skills.svg" alt="agent-skills" />
   </a>
   <a href="https://github.com/fcsouza/psi-pra-todos">
-    <img src="./profile/pin-psi-pra-todos.svg" alt="Psi Pra Todos" />
+    <img width="49%" src="./profile/pin-psi-pra-todos.svg" alt="psi-pra-todos" />
+  </a>
+  <a href="https://github.com/fcsouza/claude-impact-rj26">
+    <img width="49%" src="./profile/pin-claude-impact-rj26.svg" alt="claude-impact-rj26" />
+  </a>
+  <a href="https://github.com/fcsouza/pdf-character-sheet">
+    <img width="49%" src="./profile/pin-pdf-character-sheet.svg" alt="pdf-character-sheet" />
+  </a>
+  <a href="https://github.com/fcsouza/fome-zero">
+    <img width="49%" src="./profile/pin-fome-zero.svg" alt="fome-zero" />
   </a>
 </div>
 
