@@ -95,6 +95,14 @@ jobs:
           path: profile/streak.svg
           token: ${{ secrets.README_STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
+      - name: Generate trophies
+        uses: ryo-ma/github-profile-trophy@e3c89df995e92e67cdd4b2acaab9d974583dc1f7 # master (2026-07-25)
+        with:
+          username: ${{ github.repository_owner }}
+          output_path: profile/trophy.svg
+          theme: darkhub
+          token: ${{ secrets.README_STATS_TOKEN || secrets.GITHUB_TOKEN }}
+
       - name: Generate contribution snake
         uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3.5.0
         with:

@@ -182,6 +182,14 @@ const fabricio = {
 
 <br>
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="./profile/trophy.svg" alt="GitHub Trophies" />
+</div>
+
+<br>
+
 ## 🐍 Contribution Snake
 
 <div align="center">
