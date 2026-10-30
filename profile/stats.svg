@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Fabricio Cavalcante&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 70, Total Commits  : 4078, Total PRs: 900, Total Issues: 14, Contributed to (last year): 20</desc>
+        <desc id="descId">Total Stars Earned: 70, Total Commits  : 4138, Total PRs: 900, Total Issues: 14, Contributed to (last year): 20</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 74.07730848861553;
+        stroke-dashoffset: 73.98768236964113;
       }
     }
   
